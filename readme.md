@@ -1,6 +1,6 @@
 # Twitter Feed Algorithm
 
-> TypeScript pseudocode for exploring an open source version of Twitter's algorithm feed.
+> TypeScript code exploring what an open source version of Twitter's algorithm feed might look like.
 
 ## Intro
 

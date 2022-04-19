@@ -2,7 +2,7 @@
   "name": "twitter-feed-algorithm",
   "private": true,
   "version": "0.0.1",
-  "description": "TypeScript pseudocode for exploring an open source version of Twitter's algorithm feed.",
+  "description": "TypeScript code exploring what an open source version of Twitter's algorithm feed might look like.",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "repository": "transitive-bullshit/nextjs-notion-starter-kit",
   "license": "MIT",
