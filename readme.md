@@ -4,7 +4,7 @@
 
 ## Intro
 
-This repo contains code samples for a series of articles I'm working on to explore what “open sourcing the Twitter algorithm” would look like from a more practical perspective.
+This repo contains code samples for a series of articles I'm working on with the aim of exploring what “open sourcing Twitter's algorithm” might look like from a more practical perspective.
 
 ## Goals, Non-Goals, and Caveats
 
