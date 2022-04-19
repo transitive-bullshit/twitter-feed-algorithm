@@ -1,0 +1,19 @@
+{
+  "name": "twitter-feed-algorithm",
+  "private": true,
+  "version": "0.0.1",
+  "description": "TypeScript pseudocode for exploring an open source version of Twitter's algorithm feed.",
+  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "repository": "transitive-bullshit/nextjs-notion-starter-kit",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "twitter-api-sdk": "^1.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
